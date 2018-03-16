@@ -1,0 +1,530 @@
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000000.jpeg]
+t0:172 386 238 450
+t1:72 380 130 426
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000001.jpeg]
+t0:248 454 332 522
+t2:170 382 234 446
+t1:68 378 126 424
+t3:438 314 472 338
+t4:88 276 128 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000002.jpeg]
+t2:252 454 290 478
+t0:164 382 230 444
+t1:66 378 124 422
+t4:86 276 134 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000003.jpeg]
+t2:240 444 322 514
+t0:162 380 224 442
+t1:64 376 120 420
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000004.jpeg]
+t1:62 374 120 418
+t0:88 276 136 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000005.jpeg]
+t0:232 442 312 506
+t5:152 376 216 436
+t1:62 372 116 416
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000006.jpeg]
+t1:150 374 212 434
+t0:58 370 112 414
+t6:2 328 50 356
+t5:88 276 130 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000007.jpeg]
+t5:226 436 304 498
+t1:148 372 208 432
+t0:58 370 110 412
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000008.jpeg]
+t5:224 430 300 494
+t1:146 368 204 430
+t0:56 366 108 410
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000009.jpeg]
+t5:144 368 202 428
+t0:56 366 106 410
+t1:2 326 48 352
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000010.jpeg]
+t1:222 426 294 488
+t5:140 366 200 426
+t0:54 366 106 408
+t7:92 276 140 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000011.jpeg]
+t7:504 542 550 568
+t1:220 422 292 484
+t5:140 366 198 424
+t0:54 364 104 406
+t8:2 324 48 350
+t9:94 276 160 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000012.jpeg]
+t7:492 534 534 560
+t1:222 418 290 480
+t5:138 364 194 422
+t0:52 364 102 404
+t8:2 322 48 348
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000013.jpeg]
+t7:478 530 520 554
+t1:220 418 286 478
+t5:136 362 192 420
+t0:52 362 102 402
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000014.jpeg]
+t7:466 524 506 546
+t1:220 416 286 474
+t5:136 360 190 418
+t0:52 360 100 400
+t10:2 320 48 348
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000015.jpeg]
+t7:454 518 494 540
+t1:218 414 284 472
+t5:134 360 190 416
+t0:52 358 100 400
+t10:2 320 50 346
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000016.jpeg]
+t7:444 512 482 534
+t1:218 412 282 470
+t5:132 358 188 414
+t0:50 358 100 398
+t10:2 320 50 346
+t11:100 276 146 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000017.jpeg]
+t7:434 510 472 532
+t1:214 412 280 468
+t5:128 358 184 414
+t0:46 358 96 398
+t10:4 320 46 344
+t11:100 276 148 312
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000018.jpeg]
+t0:426 506 462 530
+t1:212 410 278 468
+t5:126 358 180 414
+t7:44 358 92 398
+t10:458 318 492 342
+t11:100 276 162 316
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000019.jpeg]
+t1:212 410 274 468
+t0:122 358 176 414
+t5:40 358 88 398
+t7:100 276 140 316
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000020.jpeg]
+t1:212 404 274 466
+t0:118 358 172 414
+t5:36 358 84 398
+t7:98 276 140 316
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000021.jpeg]
+t1:208 402 270 466
+t0:32 358 80 398
+t5:470 318 502 344
+t7:96 276 140 318
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000022.jpeg]
+t1:206 402 268 466
+t0:110 358 164 414
+t5:28 358 76 398
+t7:94 276 144 318
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000023.jpeg]
+t0:206 412 266 466
+t1:22 360 72 400
+t7:92 278 138 318
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000024.jpeg]
+t0:202 404 264 466
+t1:18 360 68 400
+t12:102 358 156 414
+t7:92 278 136 320
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000025.jpeg]
+t12:352 514 448 570
+t0:202 412 262 466
+t1:14 360 64 400
+t13:98 358 152 414
+t7:92 278 134 320
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000026.jpeg]
+t0:198 412 260 468
+t1:10 360 58 400
+t12:94 358 148 416
+t7:88 280 134 322
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000027.jpeg]
+t0:336 510 428 566
+t12:198 412 258 466
+t1:8 360 56 400
+t14:90 358 144 416
+t7:88 280 134 322
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000028.jpeg]
+t0:330 508 422 562
+t12:196 412 256 466
+t1:6 360 54 400
+t14:90 358 142 416
+t7:88 282 134 322
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000029.jpeg]
+t0:322 504 414 558
+t12:198 404 256 464
+t1:4 362 52 402
+t14:88 360 140 416
+t7:88 282 134 324
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000030.jpeg]
+t0:316 502 406 556
+t12:196 404 254 464
+t1:2 364 50 400
+t14:84 360 138 416
+t7:88 284 136 326
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000031.jpeg]
+t0:308 500 398 552
+t12:194 400 254 462
+t1:82 360 134 414
+t14:2 360 48 400
+t7:88 282 136 326
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000032.jpeg]
+t0:302 496 390 548
+t12:194 400 252 462
+t14:2 362 46 400
+t1:80 360 132 414
+t7:88 284 136 326
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000033.jpeg]
+t0:296 494 382 546
+t12:192 408 252 460
+t1:2 362 44 398
+t14:78 358 130 412
+t7:90 284 138 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000034.jpeg]
+t0:292 492 376 542
+t1:2 360 44 398
+t14:78 358 130 412
+t12:90 282 138 326
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000035.jpeg]
+t0:286 488 372 540
+t1:76 358 128 412
+t14:92 284 140 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000036.jpeg]
+t0:282 486 366 536
+t15:2 358 42 396
+t1:76 356 128 410
+t14:92 282 142 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000037.jpeg]
+t0:276 484 360 534
+t15:2 360 40 396
+t1:74 356 126 410
+t14:92 284 142 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000038.jpeg]
+t0:272 482 354 530
+t14:2 358 38 396
+t1:72 356 124 410
+t15:92 284 144 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000039.jpeg]
+t0:266 480 350 530
+t1:72 356 122 408
+t15:90 284 146 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000040.jpeg]
+t0:264 478 346 526
+t16:2 358 36 394
+t1:70 354 122 408
+t15:96 282 148 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000041.jpeg]
+t0:258 476 340 526
+t1:2 356 34 394
+t15:96 282 148 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000042.jpeg]
+t17:166 532 200 556
+t0:252 476 334 524
+t1:64 354 116 408
+t15:94 282 148 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000043.jpeg]
+t0:246 476 328 524
+t17:280 460 316 488
+t1:58 354 108 408
+t15:88 282 146 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000044.jpeg]
+t17:168 514 224 560
+t0:238 478 320 526
+t1:48 356 102 410
+t15:88 284 140 330
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000045.jpeg]
+t0:232 480 320 532
+t17:42 358 94 412
+t15:84 284 136 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000046.jpeg]
+t0:222 480 308 532
+t18:258 464 296 492
+t17:32 358 86 414
+t15:72 284 132 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000047.jpeg]
+t17:134 514 190 562
+t0:216 482 300 534
+t18:250 466 292 494
+t19:22 358 78 416
+t15:64 284 130 334
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000048.jpeg]
+t19:98 536 134 560
+t17:120 516 180 564
+t0:206 484 294 536
+t0:242 466 280 496
+t18:14 370 70 416
+t15:66 284 126 330
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000049.jpeg]
+t19:126 538 170 562
+t15:76 538 122 574
+t0:198 484 286 536
+t18:234 468 272 496
+t17:64 282 120 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000050.jpeg]
+t19:114 540 158 564
+t0:190 488 278 538
+t18:226 470 264 498
+t17:58 282 118 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000051.jpeg]
+t18:102 542 140 566
+t0:182 488 270 540
+t17:218 470 256 500
+t19:56 282 112 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000052.jpeg]
+t1:48 538 84 564
+t18:70 518 134 566
+t0:172 490 264 542
+t17:208 472 256 502
+t19:34 282 108 336
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000053.jpeg]
+t1:38 538 72 564
+t18:56 518 122 566
+t0:164 490 254 544
+t17:198 472 246 504
+t19:28 280 104 334
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000054.jpeg]
+t0:66 542 110 566
+t18:20 538 60 562
+t17:154 492 254 544
+t1:192 472 234 504
+t19:30 278 102 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000055.jpeg]
+t18:10 536 48 562
+t1:32 516 98 566
+t0:146 492 244 544
+t17:182 472 226 504
+t19:32 276 96 332
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000056.jpeg]
+t17:40 540 84 564
+t18:2 534 36 560
+t0:140 490 232 542
+t1:176 470 218 502
+t19:32 272 94 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000057.jpeg]
+t17:30 538 78 562
+t0:132 490 230 542
+t1:168 470 214 502
+t19:28 268 92 328
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000058.jpeg]
+t17:8 512 70 562
+t0:128 488 226 538
+t1:164 468 214 502
+t19:26 266 92 326
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000059.jpeg]
+t17:12 536 60 562
+t0:158 470 204 502
+t19:26 264 92 324
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000060.jpeg]
+t17:8 534 56 560
+t0:158 468 204 502
+t19:26 260 98 324
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000061.jpeg]
+t17:6 532 56 558
+t0:4 506 56 532
+t2:122 486 222 538
+t19:30 254 106 322
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000062.jpeg]
+t17:2 532 48 558
+t19:32 250 108 318
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000063.jpeg]
+t19:32 246 106 316
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000064.jpeg]
+t19:30 242 108 314
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000065.jpeg]
+t19:22 238 108 312
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000066.jpeg]
+t3:110 528 152 560
+t19:18 232 100 310
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000067.jpeg]
+t19:14 228 96 304
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000068.jpeg]
+t4:96 534 154 568
+t5:138 370 182 392
+t19:12 224 96 304
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000069.jpeg]
+t4:10 224 94 302
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000070.jpeg]
+t6:72 522 124 558
+t4:8 220 92 300
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000071.jpeg]
+t4:6 218 90 298
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000072.jpeg]
+t7:46 514 94 548
+t8:70 482 132 536
+t4:2 220 86 298
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000073.jpeg]
+t7:10 520 46 546
+t4:2 218 80 298
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000074.jpeg]
+t7:94 380 186 452
+t4:2 216 78 296
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000075.jpeg]
+t9:30 426 84 462
+t7:90 380 184 452
+t4:2 214 74 296
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000076.jpeg]
+t10:20 424 74 462
+t7:84 380 186 452
+t9:180 348 252 410
+t4:2 216 72 298
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000077.jpeg]
+t10:8 424 60 462
+t7:78 380 178 452
+t9:172 346 248 410
+t4:2 218 66 300
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000078.jpeg]
+t9:2 472 68 530
+t7:74 384 166 456
+t10:172 352 246 412
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000079.jpeg]
+t9:172 356 246 418
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000080.jpeg]
+t9:168 358 244 424
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000081.jpeg]
+t9:168 362 246 432
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000082.jpeg]
+t9:168 370 244 430
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000083.jpeg]
+t9:162 376 240 436
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000084.jpeg]
+t11:50 416 140 488
+t9:158 382 220 444
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000085.jpeg]
+t9:156 390 216 450
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000086.jpeg]
+t9:152 398 234 460
+t12:94 2 140 32
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000087.jpeg]
+t9:146 406 214 468
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000088.jpeg]
+t13:36 444 124 516
+t9:150 410 214 472
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000089.jpeg]
+t13:34 444 126 518
+t9:150 410 214 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000090.jpeg]
+t13:32 446 126 518
+t9:150 410 216 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000091.jpeg]
+t13:28 444 116 518
+t9:148 410 214 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000092.jpeg]
+t13:26 430 144 516
+t9:148 408 214 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000093.jpeg]
+t9:146 404 212 472
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000094.jpeg]
+t9:146 402 210 468
+t14:76 2 128 38
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000095.jpeg]
+t9:146 400 212 468
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000096.jpeg]
+t9:144 400 210 470
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000097.jpeg]
+t9:140 398 216 470
+t15:570 2 602 30
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000098.jpeg]
+t9:130 398 214 470
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000099.jpeg]
+t9:140 398 212 474
+t16:566 2 596 32
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000100.jpeg]
+t9:138 398 212 476
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000101.jpeg]
+t9:136 400 210 464
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000102.jpeg]
+t9:132 404 206 468
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000103.jpeg]
+t9:130 406 202 470
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000104.jpeg]
+t9:132 410 200 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000105.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000106.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000107.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000108.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000109.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000110.jpeg]
+t17:128 426 196 490
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000111.jpeg]
+t17:132 428 200 490
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000112.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000113.jpeg]
+t18:136 432 204 484
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000114.jpeg]
+t18:138 430 206 484
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000115.jpeg]
+t18:140 430 210 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000116.jpeg]
+t18:142 430 212 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000117.jpeg]
+t18:146 430 216 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000118.jpeg]
+t18:148 430 218 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000119.jpeg]
+t18:150 432 220 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000120.jpeg]
+t18:152 432 224 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000121.jpeg]
+t18:156 434 226 482
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000122.jpeg]
+t18:158 432 230 480
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000123.jpeg]
+t18:160 430 234 478
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000124.jpeg]
+t18:162 426 236 474
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000125.jpeg]
+t18:166 424 240 472
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000126.jpeg]
+t18:170 420 242 468
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000127.jpeg]
+t18:172 414 246 462
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000128.jpeg]
+t18:174 410 248 456
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000129.jpeg]
+t18:176 402 252 448
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000130.jpeg]
+t18:178 396 252 442
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000131.jpeg]
+t18:180 390 258 434
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000132.jpeg]
+t18:180 382 254 426
+t19:100 2 130 58
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000133.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000134.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000135.jpeg]
+t0:178 362 256 404
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000136.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000137.jpeg]
+t1:180 354 258 396
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000138.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000139.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000140.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000141.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000142.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000143.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000144.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000145.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000146.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000147.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000148.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000149.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000150.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000151.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000152.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000153.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000154.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000155.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000156.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000157.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000158.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000159.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000160.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000161.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000162.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000163.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000164.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000165.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000166.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000167.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000168.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000169.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000170.jpeg]
+[I:/Experiment/dataset/pafiss_eval_dataset/sequence04/2043_000171.jpeg]

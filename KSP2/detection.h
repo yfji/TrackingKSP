@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <fstream>
 #include <vector>
 #include <opencv2/opencv.hpp>
 #include <opencv2/videoio.hpp>
@@ -51,6 +52,7 @@ private:
 	FeatureExtractorSalient ex;
 	const int featLen = 256;
 	int totalSize;
+	int gScale;
 	std::string filename;
 	vector<float*> features;
 	vector<vector<int>> disjointPaths;
@@ -94,5 +96,7 @@ public:
 	void parseDisjointPaths();
 
 	void drawBoundingBoxes();
+	void saveResults(ofstream& out);
+
 };
 

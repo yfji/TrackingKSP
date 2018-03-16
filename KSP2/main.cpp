@@ -6,7 +6,7 @@
 
 void ksp() {
 	Detection d;
-	d.runVideo("I:/Experiment/dataset/pafiss_eval_dataset/sequence03_files.txt");
+	d.runVideo("I:/Experiment/dataset/pafiss_eval_dataset/sequence04_files.txt");
 	int radius = 5;
 	int offset = 0;
 	for (auto i = 0; i < d.detections.size() - 1;) {
@@ -22,6 +22,11 @@ void ksp() {
 	cout << endl << "Generating trajectories..." << endl;
 	d.parseDisjointPaths();
 	d.drawBoundingBoxes();
+
+	ofstream out;
+	out.open("sequence04_result.txt", std::ios::out);
+	d.saveResults(out);
+	out.close();
 }
 
 int main()

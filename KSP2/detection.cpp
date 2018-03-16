@@ -1,7 +1,6 @@
 #include "stdafx.h"
 #include "detection.h"
 
-
 Detection::Detection()
 {
 	nodes = nullptr;
@@ -66,15 +65,15 @@ void Detection::runVideo(const char* filename) {
 	this->filename = string(filename);
 	cv::Mat frame;
 	int offset = 0;
-	int scale = 2;
+	gScale = 2;
 	//
 	for (auto i = 0; i<file_paths.size(); ++i) {
 		frame = cv::imread(file_paths[i]);
 		cv::Mat scaled;
-		cv::resize(frame, scaled, cv::Size(frame.cols / scale, frame.rows / scale));
+		cv::resize(frame, scaled, cv::Size(frame.cols / gScale, frame.rows / gScale));
 
 		vector<target> frame_detections;
-		detect(scaled, frame_detections, offset, scale);
+		detect(scaled, frame_detections, offset, gScale);
 
 		detections.push_back(frame_detections);
 		frameSizes.push_back(frame_detections.size());
@@ -101,7 +100,7 @@ void Detection::parseDisjointPaths() {
 	cout << "Total " << totalSize << " targets wrapped" << endl;
 	for (auto i = 0; i < totalSize; ++i) {
 		if (nodes[i]->searched) {
-			cout << "Fucking searched?" << endl;
+			//cout << "Fucking searched?" << endl;
 			continue;
 		}
 		int v = i;
@@ -124,13 +123,12 @@ void Detection::parseDisjointPaths() {
 
 void Detection::drawBoundingBoxes()
 {
-	int scale = 2;
 	cv::Mat frame;
 	int offset = 0;
 	for (auto k = 0; k < file_paths.size(); ++k) {
 		frame = cv::imread(file_paths[k]);
 		cv::Mat scaled;
-		cv::resize(frame, scaled, cv::Size(frame.cols / scale, frame.rows / scale), cv::INTER_LINEAR);
+		cv::resize(frame, scaled, cv::Size(frame.cols / gScale, frame.rows / gScale), cv::INTER_LINEAR);
 
 		for (int i = 0; i < frameSizes[k]; ++i) {
 			int id = i + offset;
@@ -144,5 +142,22 @@ void Detection::drawBoundingBoxes()
 		cv::waitKey(50);
 	}
 	
+}
+
+void Detection::saveResults(ofstream & out)
+{
+	int offset = 0;
+	for (auto k = 0; k < file_paths.size(); ++k) {
+		out << '[' << file_paths[k] << "]\n";
+		for (int i = 0; i < frameSizes[k]; ++i) {
+			int id =i + offset;
+			Rect& box = nodes[id]->box;
+			stringstream ss;
+			ss << "t" << ids[id] << ":" << box.x*gScale << ' ' << box.y*gScale << ' ' << box.x*gScale + box.width*gScale << ' ' << box.y*gScale + box.height*gScale;
+			ss << '\n';
+			out << ss.str();
+		}
+		offset += frameSizes[k];
+	}
 }
 
